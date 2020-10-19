@@ -1,6 +1,8 @@
 # Geeta-Reads
 A android app for reading Bhagwat Geeta!
 
+https://play.google.com/store/apps/details?id=com.goodbooks.gitareads
+
 # Installation
   # Firebase:
     1) Login into Firebase.
